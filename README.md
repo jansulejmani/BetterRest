@@ -6,6 +6,3 @@ Technologies:
 - SwiftUI
 - CoreML
 
-Demonstration Video:
-<a href="https://jansulejmani.github.io">Portfolio</a>
-

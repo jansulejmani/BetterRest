@@ -1,0 +1,2 @@
+# BetterRest
+A machine learning iOS app that calculates your optimal bedtime given your wake up time, desired amount of sleep, and daily coffee intake
